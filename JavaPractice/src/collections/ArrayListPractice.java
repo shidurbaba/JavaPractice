@@ -13,6 +13,10 @@ public class ArrayListPractice {
 		
 		//1. LinkedHashSet
 		
+		
+		
+		
+		//HashMap
 	}
 
 }
